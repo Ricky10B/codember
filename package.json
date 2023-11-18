@@ -1,0 +1,15 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "Mis soluciones a los retos de codember 2023",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Ricky Beltran",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
