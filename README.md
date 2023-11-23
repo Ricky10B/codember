@@ -6,10 +6,11 @@ Juego para mejorar tu lógica de programación creado por [midudev](https://gith
 
 Mis soluciones a los retos de [codember](https://codember.dev/)
 
-| # Retos | soluciones                            |
-| :-----: | :-----------------------------------: |
-| 1       | [solucion](./reto1/challenge.test.js) |
-| 2       | [solucion](./reto2/challenge.test.js) |
+| # Retos | Soluciones                       | Tests                                    |
+| :-----: | :------------------------------: | :--------------------------------------: |
+| 1       | [solucion](./reto1/challenge.js) | [Test Reto 1](./reto1/challenge.test.js) |
+| 2       | [solucion](./reto2/challenge.js) | [Test Reto 2](./reto2/challenge.test.js) |
+| 3       | [solucion](./reto3/challenge.js) | [Test Reto 3](./reto3/challenge.test.js) |
 
 ### Ejecutar tests
 Debes instalar las dependencias de desarrollo con el comando
